@@ -1,0 +1,511 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VBbHVuYQ/c21hcG9ja2VBbHVuYQ/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Aluna =====
+[1]Aluna       |08:39:59 | 11-10-2026| login OK @alunazavira | score=860 rank=6778
+[1]Aluna       |08:39:59 | 11-10-2026| serverTime=2026-10-11T08:39:59.000Z local=2026-10-11T08:39:59.247Z
+--> [1]Aluna menjalankan: Claim Daily
+[1]Aluna       |08:40:00 | 11-10-2026| daily: sudah klaim (already=true) score=860
+--> [1]Aluna menjalankan: Auto All Tasks (3 pending)
+[1]Aluna       |08:40:03 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alunazavira/status/2109201750229458660
+[1]Aluna       |08:40:03 | 11-10-2026| delay 10s...
+[1]Aluna       |08:40:22 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alunazavira/status/2109202090819019994
+[1]Aluna       |08:40:22 | 11-10-2026| delay 10s...
+[1]Aluna       |08:40:34 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alunazavira/status/2109202073145154883
+[1]Aluna       |08:40:34 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Aluna       |08:40:36 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/alunazavira/status/2109201986264944297
+--> [1]Aluna menjalankan: Watch Anime
+[1]Aluna       |08:40:38 | 11-10-2026| watch: 4 video belum completed: oshi-first-journey,ep2,ep3,ep6
+[1]Aluna       |08:40:38 | 11-10-2026| watch [1/4] farming oshi-first-journey...
+[1]Aluna       |08:40:43 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
+[1]Aluna       |08:40:52 | 11-10-2026| watch oshi-first-journey: 9% (8.51/87.00s)
+[1]Aluna       |08:40:59 | 11-10-2026| watch oshi-first-journey: 18% (15.79/87.00s)
+[1]Aluna       |08:41:06 | 11-10-2026| watch oshi-first-journey: 25% (22.35/87.00s)
+[1]Aluna       |08:41:15 | 11-10-2026| watch oshi-first-journey: 32% (28.40/87.00s)
+[1]Aluna       |08:41:24 | 11-10-2026| watch oshi-first-journey: 41% (36.30/87.00s)
+[1]Aluna       |08:41:34 | 11-10-2026| watch oshi-first-journey: 51% (44.75/87.00s)
+[1]Aluna       |08:41:41 | 11-10-2026| watch oshi-first-journey: 58% (51.17/87.00s)
+[1]Aluna       |08:41:49 | 11-10-2026| watch oshi-first-journey: 66% (57.63/87.00s)
+[1]Aluna       |08:41:55 | 11-10-2026| watch oshi-first-journey: 73% (63.88/87.00s)
+[1]Aluna       |08:42:02 | 11-10-2026| watch oshi-first-journey: 79% (69.49/87.00s)
+[1]Aluna       |08:42:09 | 11-10-2026| watch oshi-first-journey: 87% (75.97/87.00s)
+[1]Aluna       |08:42:15 | 11-10-2026| watch oshi-first-journey: 93% (81.62/87.00s)
+[1]Aluna       |08:42:15 | 11-10-2026| watch oshi-first-journey: COMPLETED (81.62/87.00s)
+[1]Aluna       |08:42:20 | 11-10-2026| watch [2/4] farming ep2...
+[1]Aluna       |08:42:22 | 11-10-2026| watch ep2: mulai dari 0 (record 229.2s diabaikan)
+[1]Aluna       |08:42:29 | 11-10-2026| watch ep2: 56% (229.18/406.00s)
+[1]Aluna       |08:42:37 | 11-10-2026| watch ep2: 56% (229.18/406.00s)
+[1]Aluna       |08:42:43 | 11-10-2026| watch ep2: 56% (229.18/406.00s)
+[1]Aluna       |08:42:50 | 11-10-2026| watch ep2: 56% (229.18/406.00s)
+[1]Aluna       |08:43:00 | 11-10-2026| watch ep2: 56% (229.67/406.00s)
+[1]Aluna       |08:43:08 | 11-10-2026| watch ep2: 56% (229.67/406.00s)
+[1]Aluna       |08:43:16 | 11-10-2026| watch ep2: 56% (229.67/406.00s)
+[1]Aluna       |08:43:23 | 11-10-2026| watch ep2: 56% (229.67/406.00s)
+[1]Aluna       |08:43:31 | 11-10-2026| watch ep2: 56% (229.67/406.00s)
+[1]Aluna       |08:43:38 | 11-10-2026| watch ep2: 56% (229.67/406.00s)
+[1]Aluna       |08:43:46 | 11-10-2026| watch ep2: 56% (229.67/406.00s)
+[1]Aluna       |08:43:55 | 11-10-2026| watch ep2: 56% (229.67/406.00s)
+[1]Aluna       |08:44:02 | 11-10-2026| watch ep2: 56% (229.67/406.00s)
+[1]Aluna       |08:44:12 | 11-10-2026| watch ep2: 56% (230.16/406.00s)
+[1]Aluna       |08:44:23 | 11-10-2026| watch ep2: 56% (230.16/406.00s)
+[1]Aluna       |08:44:31 | 11-10-2026| watch ep2: 56% (230.16/406.00s)
+[1]Aluna       |08:44:38 | 11-10-2026| watch ep2: 56% (230.16/406.00s)
+[1]Aluna       |08:44:45 | 11-10-2026| watch ep2: 56% (230.16/406.00s)
+[1]Aluna       |08:44:51 | 11-10-2026| watch ep2: 56% (230.16/406.00s)
+[1]Aluna       |08:44:58 | 11-10-2026| watch ep2: 56% (230.16/406.00s)
+[1]Aluna       |08:45:05 | 11-10-2026| watch ep2: 56% (230.16/406.00s)
+[1]Aluna       |08:45:13 | 11-10-2026| watch ep2: 56% (230.16/406.00s)
+[1]Aluna       |08:45:20 | 11-10-2026| watch ep2: 56% (230.16/406.00s)
+[1]Aluna       |08:45:29 | 11-10-2026| watch ep2: 56% (230.16/406.00s)
+[1]Aluna       |08:45:36 | 11-10-2026| watch ep2: 56% (230.16/406.00s)
+[1]Aluna       |08:45:43 | 11-10-2026| watch ep2: 56% (230.16/406.00s)
+[1]Aluna       |08:45:50 | 11-10-2026| watch ep2: 56% (230.16/406.00s)
+[1]Aluna       |08:45:58 | 11-10-2026| watch ep2: 56% (230.16/406.00s)
+[1]Aluna       |08:46:06 | 11-10-2026| watch ep2: 56% (230.16/406.00s)
+[1]Aluna       |08:46:13 | 11-10-2026| watch ep2: 56% (230.16/406.00s)
+[1]Aluna       |08:46:22 | 11-10-2026| watch ep2: 56% (230.16/406.00s)
+[1]Aluna       |08:46:29 | 11-10-2026| watch ep2: 56% (230.16/406.00s)
+[1]Aluna       |08:46:36 | 11-10-2026| watch ep2: 56% (230.16/406.00s)
+[1]Aluna       |08:46:42 | 11-10-2026| watch ep2: 57% (232.57/406.00s)
+[1]Aluna       |08:46:49 | 11-10-2026| watch ep2: 58% (238.20/406.00s)
+[1]Aluna       |08:46:57 | 11-10-2026| watch ep2: 60% (244.93/406.00s)
+[1]Aluna       |08:47:05 | 11-10-2026| watch ep2: 61% (251.58/406.00s)
+[1]Aluna       |08:47:14 | 11-10-2026| watch ep2: 63% (259.10/406.00s)
+[1]Aluna       |08:47:22 | 11-10-2026| watch ep2: 65% (266.96/406.00s)
+[1]Aluna       |08:47:31 | 11-10-2026| watch ep2: 67% (274.29/406.00s)
+[1]Aluna       |08:47:39 | 11-10-2026| watch ep2: 69% (281.64/406.00s)
+[1]Aluna       |08:47:48 | 11-10-2026| watch ep2: 71% (288.87/406.00s)
+[1]Aluna       |08:47:56 | 11-10-2026| watch ep2: 73% (296.81/406.00s)
+[1]Aluna       |08:48:04 | 11-10-2026| watch ep2: 74% (303.88/406.00s)
+[1]Aluna       |08:48:11 | 11-10-2026| watch ep2: 76% (311.06/406.00s)
+[1]Aluna       |08:48:19 | 11-10-2026| watch ep2: 78% (317.92/406.00s)
+[1]Aluna       |08:48:27 | 11-10-2026| watch ep2: 80% (325.05/406.00s)
+[1]Aluna       |08:48:34 | 11-10-2026| watch ep2: 81% (331.53/406.00s)
+[1]Aluna       |08:48:40 | 11-10-2026| watch ep2: 83% (337.31/406.00s)
+[1]Aluna       |08:48:48 | 11-10-2026| watch ep2: 84% (343.03/406.00s)
+[1]Aluna       |08:48:55 | 11-10-2026| watch ep2: 86% (350.38/406.00s)
+[1]Aluna       |08:49:02 | 11-10-2026| watch ep2: 87% (356.38/406.00s)
+[1]Aluna       |08:49:09 | 11-10-2026| watch ep2: 89% (362.40/406.00s)
+[1]Aluna       |08:49:17 | 11-10-2026| watch ep2: 90% (369.29/406.00s)
+[1]Aluna       |08:49:17 | 11-10-2026| watch ep2: COMPLETED (369.29/406.00s)
+[1]Aluna       |08:49:22 | 11-10-2026| watch [3/4] farming ep3...
+[1]Aluna       |08:49:25 | 11-10-2026| watch ep3: 0% (0.00/362.00s)
+[1]Aluna       |08:49:31 | 11-10-2026| watch ep3: 1% (5.91/362.00s)
+[1]Aluna       |08:49:38 | 11-10-2026| watch ep3: 3% (11.60/362.00s)
+[1]Aluna       |08:49:44 | 11-10-2026| watch ep3: 4% (17.86/362.00s)
+[1]Aluna       |08:49:52 | 11-10-2026| watch ep3: 6% (23.49/362.00s)
+[1]Aluna       |08:49:59 | 11-10-2026| watch ep3: 8% (30.18/362.00s)
+[1]Aluna       |08:50:07 | 11-10-2026| watch ep3: 10% (37.17/362.00s)
+[1]Aluna       |08:50:13 | 11-10-2026| watch ep3: 12% (43.50/362.00s)
+[1]Aluna       |08:50:20 | 11-10-2026| watch ep3: 13% (49.73/362.00s)
+[1]Aluna       |08:50:26 | 11-10-2026| watch ep3: 15% (55.59/362.00s)
+[1]Aluna       |08:50:34 | 11-10-2026| watch ep3: 16% (61.20/362.00s)
+[1]Aluna       |08:50:41 | 11-10-2026| watch ep3: 18% (68.12/362.00s)
+[1]Aluna       |08:50:48 | 11-10-2026| watch ep3: 20% (74.24/362.00s)
+[1]Aluna       |08:50:55 | 11-10-2026| watch ep3: 22% (80.42/362.00s)
+[1]Aluna       |08:51:01 | 11-10-2026| watch ep3: 23% (86.30/362.00s)
+[1]Aluna       |08:51:08 | 11-10-2026| watch ep3: 25% (91.98/362.00s)
+[1]Aluna       |08:51:15 | 11-10-2026| watch ep3: 27% (98.03/362.00s)
+[1]Aluna       |08:51:22 | 11-10-2026| watch ep3: 28% (104.60/362.00s)
+[1]Aluna       |08:51:29 | 11-10-2026| watch ep3: 30% (111.14/362.00s)
+[1]Aluna       |08:51:37 | 11-10-2026| watch ep3: 32% (117.01/362.00s)
+[1]Aluna       |08:51:44 | 11-10-2026| watch ep3: 34% (124.21/362.00s)
+[1]Aluna       |08:51:51 | 11-10-2026| watch ep3: 36% (130.68/362.00s)
+[1]Aluna       |08:51:58 | 11-10-2026| watch ep3: 37% (136.83/362.00s)
+[1]Aluna       |08:52:08 | 11-10-2026| watch ep3: 39% (143.22/362.00s)
+[1]Aluna       |08:52:15 | 11-10-2026| watch ep3: 41% (151.40/362.00s)
+[1]Aluna       |08:52:21 | 11-10-2026| watch ep3: 43% (157.04/362.00s)
+[1]Aluna       |08:52:28 | 11-10-2026| watch ep3: 44% (162.64/362.00s)
+[1]Aluna       |08:52:37 | 11-10-2026| watch ep3: 46% (169.23/362.00s)
+[1]Aluna       |08:52:44 | 11-10-2026| watch ep3: 48% (175.73/362.00s)
+[1]Aluna       |08:52:51 | 11-10-2026| watch ep3: 50% (181.49/362.00s)
+[1]Aluna       |08:52:59 | 11-10-2026| watch ep3: 51% (187.75/362.00s)
+[1]Aluna       |08:53:06 | 11-10-2026| watch ep3: 53% (194.95/362.00s)
+[1]Aluna       |08:53:13 | 11-10-2026| watch ep3: 55% (201.19/362.00s)
+[1]Aluna       |08:53:20 | 11-10-2026| watch ep3: 57% (207.22/362.00s)
+[1]Aluna       |08:53:27 | 11-10-2026| watch ep3: 59% (213.61/362.00s)
+[1]Aluna       |08:53:33 | 11-10-2026| watch ep3: 60% (219.92/362.00s)
+[1]Aluna       |08:53:41 | 11-10-2026| watch ep3: 62% (225.68/362.00s)
+[1]Aluna       |08:53:47 | 11-10-2026| watch ep3: 64% (232.05/362.00s)
+[1]Aluna       |08:53:54 | 11-10-2026| watch ep3: 65% (237.79/362.00s)
+[1]Aluna       |08:54:00 | 11-10-2026| watch ep3: 67% (243.79/362.00s)
+[1]Aluna       |08:54:06 | 11-10-2026| watch ep3: 68% (249.48/362.00s)
+[1]Aluna       |08:54:14 | 11-10-2026| watch ep3: 70% (255.19/362.00s)
+[1]Aluna       |08:54:21 | 11-10-2026| watch ep3: 72% (262.06/362.00s)
+[1]Aluna       |08:54:29 | 11-10-2026| watch ep3: 74% (268.42/362.00s)
+[1]Aluna       |08:54:36 | 11-10-2026| watch ep3: 76% (275.30/362.00s)
+[1]Aluna       |08:54:46 | 11-10-2026| watch ep3: 77% (281.99/362.00s)
+[1]Aluna       |08:54:57 | 11-10-2026| watch ep3: 80% (290.69/362.00s)
+[1]Aluna       |08:55:03 | 11-10-2026| watch ep3: 82% (297.92/362.00s)
+[1]Aluna       |08:55:13 | 11-10-2026| watch ep3: 83% (303.93/362.00s)
+[1]Aluna       |08:55:21 | 11-10-2026| watch ep3: 86% (312.68/362.00s)
+[1]Aluna       |08:55:29 | 11-10-2026| watch ep3: 88% (320.28/362.00s)
+[1]Aluna       |08:55:38 | 11-10-2026| watch ep3: 90% (327.08/362.00s)
+[1]Aluna       |08:55:38 | 11-10-2026| watch ep3: COMPLETED (327.08/362.00s)
+[1]Aluna       |08:55:43 | 11-10-2026| watch [4/4] farming ep6...
+[1]Aluna       |08:55:48 | 11-10-2026| watch ep6: mulai dari 0 (record 164.6s diabaikan)
+[1]Aluna       |08:55:52 | 11-10-2026| watch ep6: 40% (164.59/404.00s)
+[1]Aluna       |08:55:58 | 11-10-2026| watch ep6: 40% (164.59/404.00s)
+[1]Aluna       |08:56:04 | 11-10-2026| watch ep6: 40% (164.59/404.00s)
+[1]Aluna       |08:56:13 | 11-10-2026| watch ep6: 40% (164.59/404.00s)
+[1]Aluna       |08:56:20 | 11-10-2026| watch ep6: 40% (164.59/404.00s)
+[1]Aluna       |08:56:27 | 11-10-2026| watch ep6: 40% (164.59/404.00s)
+[1]Aluna       |08:56:33 | 11-10-2026| watch ep6: 40% (164.59/404.00s)
+[1]Aluna       |08:56:40 | 11-10-2026| watch ep6: 40% (164.59/404.00s)
+[1]Aluna       |08:56:47 | 11-10-2026| watch ep6: 40% (164.59/404.00s)
+[1]Aluna       |08:56:53 | 11-10-2026| watch ep6: 40% (164.59/404.00s)
+[1]Aluna       |08:57:00 | 11-10-2026| watch ep6: 40% (164.59/404.00s)
+[1]Aluna       |08:57:06 | 11-10-2026| watch ep6: 40% (164.59/404.00s)
+[1]Aluna       |08:57:13 | 11-10-2026| watch ep6: 40% (164.59/404.00s)
+[1]Aluna       |08:57:19 | 11-10-2026| watch ep6: 40% (164.59/404.00s)
+[1]Aluna       |08:57:25 | 11-10-2026| watch ep6: 40% (164.59/404.00s)
+[1]Aluna       |08:57:32 | 11-10-2026| watch ep6: 40% (164.82/404.00s)
+[1]Aluna       |08:57:39 | 11-10-2026| watch ep6: 40% (164.82/404.00s)
+[1]Aluna       |08:57:46 | 11-10-2026| watch ep6: 40% (165.60/404.00s)
+[1]Aluna       |08:57:52 | 11-10-2026| watch ep6: 40% (165.60/404.00s)
+[1]Aluna       |08:57:59 | 11-10-2026| watch ep6: 41% (165.99/404.00s)
+[1]Aluna       |08:58:06 | 11-10-2026| watch ep6: 41% (165.99/404.00s)
+[1]Aluna       |08:58:17 | 11-10-2026| watch ep6: 41% (165.99/404.00s)
+[1]Aluna       |08:58:27 | 11-10-2026| watch ep6: 41% (165.99/404.00s)
+[1]Aluna       |08:58:33 | 11-10-2026| watch ep6: 41% (166.77/404.00s)
+[1]Aluna       |08:58:41 | 11-10-2026| watch ep6: 41% (166.77/404.00s)
+[1]Aluna       |08:58:47 | 11-10-2026| watch ep6: 41% (166.77/404.00s)
+[1]Aluna       |08:59:04 | 11-10-2026| watch ep6: 41% (166.77/404.00s)
+[1]Aluna       |08:59:10 | 11-10-2026| watch ep6: 41% (166.77/404.00s)
+[1]Aluna       |08:59:17 | 11-10-2026| watch ep6: 42% (172.48/404.00s)
+[1]Aluna       |08:59:24 | 11-10-2026| watch ep6: 44% (178.33/404.00s)
+[1]Aluna       |08:59:31 | 11-10-2026| watch ep6: 45% (184.91/404.00s)
+[1]Aluna       |08:59:37 | 11-10-2026| watch ep6: 47% (190.79/404.00s)
+[1]Aluna       |08:59:44 | 11-10-2026| watch ep6: 48% (196.96/404.00s)
+[1]Aluna       |08:59:51 | 11-10-2026| watch ep6: 50% (203.06/404.00s)
+[1]Aluna       |09:00:02 | 11-10-2026| watch ep6: 51% (209.10/404.00s)
+[1]Aluna       |09:00:10 | 11-10-2026| watch ep6: 53% (217.59/404.00s)
+[1]Aluna       |09:00:16 | 11-10-2026| watch ep6: 55% (224.22/404.00s)
+[1]Aluna       |09:00:23 | 11-10-2026| watch ep6: 56% (229.93/404.00s)
+[1]Aluna       |09:00:33 | 11-10-2026| watch ep6: 58% (236.05/404.00s)
+[1]Aluna       |09:00:40 | 11-10-2026| watch ep6: 60% (243.54/404.00s)
+[1]Aluna       |09:00:46 | 11-10-2026| watch ep6: 61% (249.94/404.00s)
+[1]Aluna       |09:00:54 | 11-10-2026| watch ep6: 63% (255.55/404.00s)
+[1]Aluna       |09:01:01 | 11-10-2026| watch ep6: 64% (262.39/404.00s)
+[1]Aluna       |09:01:08 | 11-10-2026| watch ep6: 66% (269.16/404.00s)
+[1]Aluna       |09:01:14 | 11-10-2026| watch ep6: 68% (274.79/404.00s)
+[1]Aluna       |09:01:22 | 11-10-2026| watch ep6: 69% (280.63/404.00s)
+[1]Aluna       |09:01:30 | 11-10-2026| watch ep6: 71% (287.69/404.00s)
+[1]Aluna       |09:01:38 | 11-10-2026| watch ep6: 73% (295.22/404.00s)
+[1]Aluna       |09:01:46 | 11-10-2026| watch ep6: 74% (302.48/404.00s)
+[1]Aluna       |09:01:52 | 11-10-2026| watch ep6: 76% (308.84/404.00s)
+[1]Aluna       |09:01:58 | 11-10-2026| watch ep6: 77% (314.56/404.00s)
+[1]Aluna       |09:02:07 | 11-10-2026| watch ep6: 79% (320.18/404.00s)
+[1]Aluna       |09:02:14 | 11-10-2026| watch ep6: 80% (327.23/404.00s)
+[1]Aluna       |09:02:21 | 11-10-2026| watch ep6: 82% (333.40/404.00s)
+[1]Aluna       |09:02:31 | 11-10-2026| watch ep6: 84% (339.56/404.00s)
+[1]Aluna       |09:02:39 | 11-10-2026| watch ep6: 86% (348.21/404.00s)
+[1]Aluna       |09:02:46 | 11-10-2026| watch ep6: 87% (354.96/404.00s)
+[1]Aluna       |09:02:53 | 11-10-2026| watch ep6: 89% (361.05/404.00s)
+[1]Aluna       |09:03:03 | 11-10-2026| watch ep6: 91% (367.86/404.00s)
+[1]Aluna       |09:03:03 | 11-10-2026| watch ep6: COMPLETED (367.86/404.00s)
+--> [1]Aluna menjalankan: Read Article
+[1]Aluna       |09:03:06 | 11-10-2026| news: 0/24 artikel selesai dibaca
+[1]Aluna       |09:03:08 | 11-10-2026| mint eligibility: {"userId":"1917978478068338688","youtube":{"url":"https://www.youtube.com/@alunazavira","status":"submitted","revision":"139d3419-6f24-4159-bc99-4faadbed5f2f","submittedAt":1791681557,"reviewedAt":179
+[1]Aluna       |09:03:17 | 11-10-2026| news [1/24] oshi-clash-100000-battles: OK completed=1
+[1]Aluna       |09:03:30 | 11-10-2026| news [2/24] whitepaper-v2-2: OK completed=2
+[1]Aluna       |09:03:42 | 11-10-2026| news [3/24] smart-pocket-referral-rewards: OK completed=3
+[1]Aluna       |09:03:53 | 11-10-2026| news [4/24] spaceship-and-studio-friends: OK completed=4
+[1]Aluna       |09:04:01 | 11-10-2026| news [5/24] swap-arena-stars-guide: OK completed=5
+[1]Aluna       |09:04:10 | 11-10-2026| news [6/24] kagura-airdrop-guide: OK completed=6
+[1]Aluna       |09:04:19 | 11-10-2026| news [7/24] oshi-clash-complete-guide: OK completed=7
+[1]Aluna       |09:04:27 | 11-10-2026| news [8/24] oshi-clash-launch: OK completed=8
+[1]Aluna       |09:04:37 | 11-10-2026| news [9/24] smart-pocket-monthly-2026-09: OK completed=9
+[1]Aluna       |09:04:45 | 11-10-2026| news [10/24] oshi-labs-monthly-2026-09: OK completed=10
+[1]Aluna       |09:04:53 | 11-10-2026| news [11/24] oshi-news-launch: OK completed=11
+[1]Aluna       |09:05:07 | 11-10-2026| news [12/24] yuki-character-design: OK completed=12
+[1]Aluna       |09:05:18 | 11-10-2026| news smart-pocket-mobile-apps: complete GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Aluna       |09:05:20 | 11-10-2026| news smart-pocket-read-a-card: view GAGAL http=503
+[1]Aluna       |09:05:32 | 11-10-2026| news [15/24] start-your-fan-creation: OK completed=13
+[1]Aluna       |09:05:47 | 11-10-2026| news [16/24] complete-your-first-task: OK completed=14
+[1]Aluna       |09:05:59 | 11-10-2026| news [17/24] understand-the-rankings: OK completed=15
+[1]Aluna       |09:06:12 | 11-10-2026| news [18/24] unlock-and-save-icons: OK completed=16
+[1]Aluna       |09:06:25 | 11-10-2026| news [19/24] start-here: OK completed=17
+[1]Aluna       |09:06:38 | 11-10-2026| news [20/24] what-is-free-mint: OK completed=18
+[1]Aluna       |09:06:47 | 11-10-2026| news [21/24] what-is-nft: OK completed=19
+[1]Aluna       |09:06:56 | 11-10-2026| news [22/24] prepare-your-wallet: OK completed=20
+[1]Aluna       |09:07:06 | 11-10-2026| news [23/24] find-your-anime: OK completed=21
+[1]Aluna       |09:07:17 | 11-10-2026| news [24/24] smart-pocket-first-steps: OK completed=22
+--> [1]Aluna menjalankan: Quiz Anime
+[1]Aluna       |09:07:19 | 11-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Aluna menjalankan: Music Missions (realtime, bisa lama!)
+[1]Aluna       |09:07:19 | 11-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Aluna       |09:07:21 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Aluna menjalankan: Claim Missions
+[1]Aluna       |09:07:21 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Aluna menjalankan: Check Eligibility
+
+--- eligibility [1]Aluna ---
+  @alunazavira | score=860 rank=6778
+  tasks    [###################-] 73/76
+  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  watch    [####################] 18/17
+  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  artikel  [##################--] 22/24
+  mint: requirementsMet=false mintOpen=false discord=true
+
+--> [1]Aluna menjalankan: Read Manga
+[1]Aluna       |09:07:26 | 11-10-2026| manga: 13/13 chapter belum completed
+[1]Aluna       |09:07:26 | 11-10-2026| manga [1/13] membaca ch.1 (19 hal)...
+[1]Aluna       |09:07:32 | 11-10-2026| manga ch1 (1): page 1/19 (5%) 0s
+[1]Aluna       |09:07:37 | 11-10-2026| manga ch1 (1): page 2/19 (10%) 5s
+[1]Aluna       |09:07:41 | 11-10-2026| manga ch1 (1): page 3/19 (15%) 10s
+[1]Aluna       |09:07:47 | 11-10-2026| manga ch1 (1): page 4/19 (21%) 15s
+[1]Aluna       |09:07:52 | 11-10-2026| manga ch1 (1): page 5/19 (26%) 20s
+[1]Aluna       |09:07:57 | 11-10-2026| manga ch1 (1): page 6/19 (31%) 25s
+[1]Aluna       |09:08:01 | 11-10-2026| manga ch1 (1): page 7/19 (36%) 30s
+[1]Aluna       |09:08:06 | 11-10-2026| manga ch1 (1): page 8/19 (42%) 35s
+[1]Aluna       |09:08:11 | 11-10-2026| manga ch1 (1): page 9/19 (47%) 39s
+[1]Aluna       |09:08:15 | 11-10-2026| manga ch1 (1): page 10/19 (52%) 44s
+[1]Aluna       |09:08:20 | 11-10-2026| manga ch1 (1): page 11/19 (57%) 49s
+[1]Aluna       |09:08:26 | 11-10-2026| manga ch1 (1): page 12/19 (63%) 54s
+[1]Aluna       |09:08:30 | 11-10-2026| manga ch1 (1): page 13/19 (68%) 59s
+[1]Aluna       |09:08:35 | 11-10-2026| manga ch1 (1): page 14/19 (73%) 63s
+[1]Aluna       |09:08:39 | 11-10-2026| manga ch1 (1): page 15/19 (78%) 68s
+[1]Aluna       |09:08:45 | 11-10-2026| manga ch1 (1): page 16/19 (84%) 73s
+[1]Aluna       |09:08:50 | 11-10-2026| manga ch1 (1): page 17/19 (89%) 78s
+[1]Aluna       |09:08:55 | 11-10-2026| manga ch1 (1): page 18/19 (94%) 84s
+[1]Aluna       |09:09:00 | 11-10-2026| manga ch1 (1): page 19/19 (99%) 88s
+[1]Aluna       |09:09:04 | 11-10-2026| manga ch1 (1): COMPLETED
+[1]Aluna       |09:09:07 | 11-10-2026| manga [2/13] membaca ch.2 (18 hal)...
+[1]Aluna       |09:09:18 | 11-10-2026| manga ch2 (450001): page 1/18 (5%) 0s
+[1]Aluna       |09:09:23 | 11-10-2026| manga ch2 (450001): page 2/18 (11%) 7s
+[1]Aluna       |09:09:28 | 11-10-2026| manga ch2: page 3 GAGAL http=503
+[1]Aluna       |09:09:34 | 11-10-2026| manga ch2 (450001): page 4/18 (22%) 17s
+[1]Aluna       |09:09:40 | 11-10-2026| manga ch2 (450001): page 5/18 (27%) 23s
+[1]Aluna       |09:09:45 | 11-10-2026| manga ch2 (450001): page 6/18 (33%) 29s
+[1]Aluna       |09:09:51 | 11-10-2026| manga ch2 (450001): page 7/18 (38%) 34s
+[1]Aluna       |09:09:56 | 11-10-2026| manga ch2 (450001): page 8/18 (44%) 40s
+[1]Aluna       |09:10:01 | 11-10-2026| manga ch2 (450001): page 9/18 (50%) 45s
+[1]Aluna       |09:10:05 | 11-10-2026| manga ch2 (450001): page 10/18 (55%) 49s
+[1]Aluna       |09:10:10 | 11-10-2026| manga ch2 (450001): page 11/18 (61%) 54s
+[1]Aluna       |09:10:14 | 11-10-2026| manga ch2 (450001): page 12/18 (66%) 58s
+[1]Aluna       |09:10:20 | 11-10-2026| manga ch2 (450001): page 13/18 (72%) 63s
+[1]Aluna       |09:10:24 | 11-10-2026| manga ch2 (450001): page 14/18 (77%) 68s
+[1]Aluna       |09:10:29 | 11-10-2026| manga ch2 (450001): page 15/18 (83%) 73s
+[1]Aluna       |09:10:33 | 11-10-2026| manga ch2 (450001): page 16/18 (88%) 77s
+[1]Aluna       |09:10:38 | 11-10-2026| manga ch2 (450001): page 17/18 (94%) 82s
+[1]Aluna       |09:10:42 | 11-10-2026| manga ch2 (450001): page 18/18 (99%) 86s
+[1]Aluna       |09:10:50 | 11-10-2026| manga ch2 (450001): COMPLETED
+[1]Aluna       |09:10:53 | 11-10-2026| manga [3/13] membaca ch.3 (17 hal)...
+[1]Aluna       |09:11:04 | 11-10-2026| manga ch3 (2160001): page 1/17 (5%) 0s
+[1]Aluna       |09:11:13 | 11-10-2026| manga ch3 (2160001): page 2/17 (11%) 6s
+[1]Aluna       |09:11:18 | 11-10-2026| manga ch3 (2160001): page 3/17 (17%) 15s
+[1]Aluna       |09:11:22 | 11-10-2026| manga ch3 (2160001): page 4/17 (23%) 20s
+[1]Aluna       |09:11:28 | 11-10-2026| manga ch3 (2160001): page 5/17 (29%) 24s
+[1]Aluna       |09:11:32 | 11-10-2026| manga ch3 (2160001): page 6/17 (35%) 30s
+[1]Aluna       |09:11:37 | 11-10-2026| manga ch3 (2160001): page 7/17 (41%) 34s
+[1]Aluna       |09:11:42 | 11-10-2026| manga ch3 (2160001): page 8/17 (47%) 39s
+[1]Aluna       |09:11:47 | 11-10-2026| manga ch3 (2160001): page 9/17 (52%) 44s
+[1]Aluna       |09:11:51 | 11-10-2026| manga ch3 (2160001): page 10/17 (58%) 49s
+[1]Aluna       |09:11:56 | 11-10-2026| manga ch3 (2160001): page 11/17 (64%) 53s
+[1]Aluna       |09:12:00 | 11-10-2026| manga ch3 (2160001): page 12/17 (70%) 58s
+[1]Aluna       |09:12:05 | 11-10-2026| manga ch3 (2160001): page 13/17 (76%) 62s
+[1]Aluna       |09:12:09 | 11-10-2026| manga ch3 (2160001): page 14/17 (82%) 67s
+[1]Aluna       |09:12:14 | 11-10-2026| manga ch3 (2160001): page 15/17 (88%) 71s
+[1]Aluna       |09:12:19 | 11-10-2026| manga ch3 (2160001): page 16/17 (94%) 76s
+[1]Aluna       |09:12:23 | 11-10-2026| manga ch3 (2160001): page 17/17 (99%) 81s
+[1]Aluna       |09:12:28 | 11-10-2026| manga ch3 (2160001): COMPLETED
+[1]Aluna       |09:12:31 | 11-10-2026| manga [4/13] membaca ch.4 (17 hal)...
+[1]Aluna       |09:12:37 | 11-10-2026| manga ch4 (2400001): page 1/17 (5%) 0s
+[1]Aluna       |09:12:44 | 11-10-2026| manga ch4 (2400001): page 2/17 (11%) 4s
+[1]Aluna       |09:12:49 | 11-10-2026| manga ch4 (2400001): page 3/17 (17%) 12s
+[1]Aluna       |09:12:55 | 11-10-2026| manga ch4 (2400001): page 4/17 (23%) 16s
+[1]Aluna       |09:13:00 | 11-10-2026| manga ch4 (2400001): page 5/17 (29%) 22s
+[1]Aluna       |09:13:07 | 11-10-2026| manga ch4 (2400001): page 6/17 (35%) 28s
+[1]Aluna       |09:13:12 | 11-10-2026| manga ch4 (2400001): page 7/17 (41%) 34s
+[1]Aluna       |09:13:16 | 11-10-2026| manga ch4 (2400001): page 8/17 (47%) 39s
+[1]Aluna       |09:13:21 | 11-10-2026| manga ch4 (2400001): page 9/17 (52%) 44s
+[1]Aluna       |09:13:26 | 11-10-2026| manga ch4 (2400001): page 10/17 (58%) 49s
+[1]Aluna       |09:13:31 | 11-10-2026| manga ch4 (2400001): page 11/17 (64%) 53s
+[1]Aluna       |09:13:36 | 11-10-2026| manga ch4 (2400001): page 12/17 (70%) 58s
+[1]Aluna       |09:13:40 | 11-10-2026| manga ch4 (2400001): page 13/17 (76%) 63s
+[1]Aluna       |09:13:45 | 11-10-2026| manga ch4 (2400001): page 14/17 (82%) 68s
+[1]Aluna       |09:13:52 | 11-10-2026| manga ch4 (2400001): page 15/17 (88%) 73s
+[1]Aluna       |09:13:57 | 11-10-2026| manga ch4 (2400001): page 16/17 (94%) 80s
+[1]Aluna       |09:14:04 | 11-10-2026| manga ch4 (2400001): page 17/17 (99%) 84s
+[1]Aluna       |09:14:09 | 11-10-2026| manga ch4 (2400001): COMPLETED
+[1]Aluna       |09:14:12 | 11-10-2026| manga [5/13] membaca ch.5 (18 hal)...
+[1]Aluna       |09:14:18 | 11-10-2026| manga ch5 (2490001): page 1/18 (5%) 0s
+[1]Aluna       |09:14:22 | 11-10-2026| manga ch5 (2490001): page 2/18 (11%) 5s
+[1]Aluna       |09:14:29 | 11-10-2026| manga ch5 (2490001): page 3/18 (16%) 9s
+[1]Aluna       |09:14:34 | 11-10-2026| manga ch5 (2490001): page 4/18 (22%) 16s
+[1]Aluna       |09:14:40 | 11-10-2026| manga ch5 (2490001): page 5/18 (27%) 21s
+[1]Aluna       |09:14:44 | 11-10-2026| manga ch5 (2490001): page 6/18 (33%) 26s
+[1]Aluna       |09:14:50 | 11-10-2026| manga ch5 (2490001): page 7/18 (38%) 31s
+[1]Aluna       |09:14:55 | 11-10-2026| manga ch5 (2490001): page 8/18 (44%) 37s
+[1]Aluna       |09:15:00 | 11-10-2026| manga ch5 (2490001): page 9/18 (50%) 42s
+[1]Aluna       |09:15:05 | 11-10-2026| manga ch5 (2490001): page 10/18 (55%) 47s
+[1]Aluna       |09:15:10 | 11-10-2026| manga ch5 (2490001): page 11/18 (61%) 52s
+[1]Aluna       |09:15:14 | 11-10-2026| manga ch5 (2490001): page 12/18 (66%) 57s
+[1]Aluna       |09:15:22 | 11-10-2026| manga ch5 (2490001): page 13/18 (72%) 61s
+[1]Aluna       |09:15:27 | 11-10-2026| manga ch5 (2490001): page 14/18 (77%) 69s
+[1]Aluna       |09:15:33 | 11-10-2026| manga ch5 (2490001): page 15/18 (83%) 74s
+[1]Aluna       |09:15:38 | 11-10-2026| manga ch5 (2490001): page 16/18 (88%) 80s
+[1]Aluna       |09:15:44 | 11-10-2026| manga ch5 (2490001): page 17/18 (94%) 85s
+[1]Aluna       |09:15:49 | 11-10-2026| manga ch5 (2490001): page 18/18 (99%) 91s
+[1]Aluna       |09:15:54 | 11-10-2026| manga ch5 (2490001): COMPLETED
+[1]Aluna       |09:15:57 | 11-10-2026| manga [6/13] membaca ch.6 (17 hal)...
+[1]Aluna       |09:16:04 | 11-10-2026| manga ch6 (2610001): page 1/17 (5%) 0s
+[1]Aluna       |09:16:09 | 11-10-2026| manga ch6 (2610001): page 2/17 (11%) 6s
+[1]Aluna       |09:16:13 | 11-10-2026| manga ch6 (2610001): page 3/17 (17%) 10s
+[1]Aluna       |09:16:19 | 11-10-2026| manga ch6 (2610001): page 4/17 (23%) 15s
+[1]Aluna       |09:16:23 | 11-10-2026| manga ch6 (2610001): page 5/17 (29%) 20s
+[1]Aluna       |09:16:28 | 11-10-2026| manga ch6 (2610001): page 6/17 (35%) 25s
+[1]Aluna       |09:16:33 | 11-10-2026| manga ch6 (2610001): page 7/17 (41%) 30s
+[1]Aluna       |09:16:37 | 11-10-2026| manga ch6 (2610001): page 8/17 (47%) 34s
+[1]Aluna       |09:16:43 | 11-10-2026| manga ch6 (2610001): page 9/17 (52%) 39s
+[1]Aluna       |09:16:48 | 11-10-2026| manga ch6 (2610001): page 10/17 (58%) 44s
+[1]Aluna       |09:16:54 | 11-10-2026| manga ch6 (2610001): page 11/17 (64%) 50s
+[1]Aluna       |09:16:59 | 11-10-2026| manga ch6 (2610001): page 12/17 (70%) 56s
+[1]Aluna       |09:17:05 | 11-10-2026| manga ch6 (2610001): page 13/17 (76%) 61s
+[1]Aluna       |09:17:11 | 11-10-2026| manga ch6 (2610001): page 14/17 (82%) 66s
+[1]Aluna       |09:17:15 | 11-10-2026| manga ch6: page 15 GAGAL http=503
+[1]Aluna       |09:17:18 | 11-10-2026| manga ch6: page 16 GAGAL http=503
+[1]Aluna       |09:17:24 | 11-10-2026| manga ch6 (2610001): page 17/17 (99%) 76s
+[1]Aluna       |09:17:54 | 11-10-2026| manga ch6 (2610001): belum completed
+[1]Aluna       |09:17:57 | 11-10-2026| manga [7/13] membaca ch.1 (21 hal)...
+[1]Aluna       |09:18:03 | 11-10-2026| manga ch1 (180003): page 1/21 (4%) 0s
+[1]Aluna       |09:18:08 | 11-10-2026| manga ch1 (180003): page 2/21 (9%) 5s
+[1]Aluna       |09:18:14 | 11-10-2026| manga ch1 (180003): page 3/21 (14%) 10s
+[1]Aluna       |09:18:19 | 11-10-2026| manga ch1 (180003): page 4/21 (19%) 16s
+[1]Aluna       |09:18:23 | 11-10-2026| manga ch1 (180003): page 5/21 (23%) 20s
+[1]Aluna       |09:18:28 | 11-10-2026| manga ch1 (180003): page 6/21 (28%) 25s
+[1]Aluna       |09:18:32 | 11-10-2026| manga ch1 (180003): page 7/21 (33%) 30s
+[1]Aluna       |09:18:37 | 11-10-2026| manga ch1 (180003): page 8/21 (38%) 34s
+[1]Aluna       |09:18:41 | 11-10-2026| manga ch1 (180003): page 9/21 (42%) 39s
+[1]Aluna       |09:18:46 | 11-10-2026| manga ch1 (180003): page 10/21 (47%) 43s
+[1]Aluna       |09:18:50 | 11-10-2026| manga ch1 (180003): page 11/21 (52%) 48s
+[1]Aluna       |09:18:56 | 11-10-2026| manga ch1 (180003): page 12/21 (57%) 52s
+[1]Aluna       |09:19:02 | 11-10-2026| manga ch1 (180003): page 13/21 (61%) 58s
+[1]Aluna       |09:19:08 | 11-10-2026| manga ch1 (180003): page 14/21 (66%) 63s
+[1]Aluna       |09:19:12 | 11-10-2026| manga ch1 (180003): page 15/21 (71%) 69s
+[1]Aluna       |09:19:17 | 11-10-2026| manga ch1 (180003): page 16/21 (76%) 74s
+[1]Aluna       |09:19:22 | 11-10-2026| manga ch1 (180003): page 17/21 (80%) 79s
+[1]Aluna       |09:19:26 | 11-10-2026| manga ch1 (180003): page 18/21 (85%) 84s
+[1]Aluna       |09:19:31 | 11-10-2026| manga ch1 (180003): page 19/21 (90%) 88s
+[1]Aluna       |09:19:35 | 11-10-2026| manga ch1 (180003): page 20/21 (95%) 93s
+[1]Aluna       |09:19:41 | 11-10-2026| manga ch1 (180003): page 21/21 (99%) 97s
+[1]Aluna       |09:19:46 | 11-10-2026| manga ch1 (180003): COMPLETED
+[1]Aluna       |09:19:49 | 11-10-2026| manga [8/13] membaca ch.2 (18 hal)...
+[1]Aluna       |09:19:59 | 11-10-2026| manga ch2 (990005): page 1/18 (5%) 0s
+[1]Aluna       |09:20:05 | 11-10-2026| manga ch2 (990005): page 2/18 (11%) 7s
+[1]Aluna       |09:20:10 | 11-10-2026| manga ch2 (990005): page 3/18 (16%) 13s
+[1]Aluna       |09:20:15 | 11-10-2026| manga ch2 (990005): page 4/18 (22%) 18s
+[1]Aluna       |09:20:20 | 11-10-2026| manga ch2 (990005): page 5/18 (27%) 23s
+[1]Aluna       |09:20:26 | 11-10-2026| manga ch2 (990005): page 6/18 (33%) 28s
+[1]Aluna       |09:20:31 | 11-10-2026| manga ch2 (990005): page 7/18 (38%) 34s
+[1]Aluna       |09:20:36 | 11-10-2026| manga ch2 (990005): page 8/18 (44%) 39s
+[1]Aluna       |09:20:42 | 11-10-2026| manga ch2 (990005): page 9/18 (50%) 44s
+[1]Aluna       |09:20:50 | 11-10-2026| manga ch2 (990005): page 10/18 (55%) 50s
+[1]Aluna       |09:20:59 | 11-10-2026| manga ch2 (990005): page 11/18 (61%) 58s
+[1]Aluna       |09:21:08 | 11-10-2026| manga ch2 (990005): page 12/18 (66%) 67s
+[1]Aluna       |09:21:15 | 11-10-2026| manga ch2 (990005): page 13/18 (72%) 76s
+[1]Aluna       |09:21:22 | 11-10-2026| manga ch2 (990005): page 14/18 (77%) 83s
+[1]Aluna       |09:21:27 | 11-10-2026| manga ch2 (990005): page 15/18 (83%) 90s
+[1]Aluna       |09:21:31 | 11-10-2026| manga ch2 (990005): page 16/18 (88%) 95s
+[1]Aluna       |09:21:36 | 11-10-2026| manga ch2 (990005): page 17/18 (94%) 99s
+[1]Aluna       |09:21:41 | 11-10-2026| manga ch2 (990005): page 18/18 (99%) 104s
+[1]Aluna       |09:21:46 | 11-10-2026| manga ch2 (990005): COMPLETED
+[1]Aluna       |09:21:49 | 11-10-2026| manga [9/13] membaca ch.3 (20 hal)...
+[1]Aluna       |09:21:57 | 11-10-2026| manga ch3 (1980001): page 1/20 (5%) 0s
+[1]Aluna       |09:22:04 | 11-10-2026| manga ch3 (1980001): page 2/20 (10%) 6s
+[1]Aluna       |09:22:13 | 11-10-2026| manga ch3 (1980001): page 3/20 (15%) 13s
+[1]Aluna       |09:22:19 | 11-10-2026| manga ch3 (1980001): page 4/20 (20%) 21s
+[1]Aluna       |09:22:24 | 11-10-2026| manga ch3 (1980001): page 5/20 (25%) 28s
+[1]Aluna       |09:22:29 | 11-10-2026| manga ch3 (1980001): page 6/20 (30%) 33s
+[1]Aluna       |09:22:34 | 11-10-2026| manga ch3 (1980001): page 7/20 (35%) 38s
+[1]Aluna       |09:22:39 | 11-10-2026| manga ch3 (1980001): page 8/20 (40%) 43s
+[1]Aluna       |09:22:44 | 11-10-2026| manga ch3 (1980001): page 9/20 (45%) 47s
+[1]Aluna       |09:22:48 | 11-10-2026| manga ch3 (1980001): page 10/20 (50%) 52s
+[1]Aluna       |09:22:53 | 11-10-2026| manga ch3 (1980001): page 11/20 (55%) 57s
+[1]Aluna       |09:23:02 | 11-10-2026| manga ch3 (1980001): page 12/20 (60%) 61s
+[1]Aluna       |09:23:08 | 11-10-2026| manga ch3 (1980001): page 13/20 (65%) 70s
+[1]Aluna       |09:23:13 | 11-10-2026| manga ch3 (1980001): page 14/20 (70%) 77s
+[1]Aluna       |09:23:17 | 11-10-2026| manga ch3 (1980001): page 15/20 (75%) 81s
+[1]Aluna       |09:23:22 | 11-10-2026| manga ch3 (1980001): page 16/20 (80%) 86s
+[1]Aluna       |09:23:26 | 11-10-2026| manga ch3 (1980001): page 17/20 (85%) 90s
+[1]Aluna       |09:23:31 | 11-10-2026| manga ch3 (1980001): page 18/20 (90%) 95s
+[1]Aluna       |09:23:36 | 11-10-2026| manga ch3 (1980001): page 19/20 (95%) 100s
+[1]Aluna       |09:23:41 | 11-10-2026| manga ch3 (1980001): page 20/20 (99%) 105s
+[1]Aluna       |09:23:46 | 11-10-2026| manga ch3 (1980001): COMPLETED
+[1]Aluna       |09:23:49 | 11-10-2026| manga [10/13] membaca ch.1 (9 hal)...
+[1]Aluna       |09:23:58 | 11-10-2026| manga ch1 (2100001): page 1/9 (11%) 0s
+[1]Aluna       |09:24:02 | 11-10-2026| manga ch1 (2100001): page 2/9 (22%) 5s
+[1]Aluna       |09:24:07 | 11-10-2026| manga ch1 (2100001): page 3/9 (33%) 9s
+[1]Aluna       |09:24:13 | 11-10-2026| manga ch1 (2100001): page 4/9 (44%) 14s
+[1]Aluna       |09:24:18 | 11-10-2026| manga ch1 (2100001): page 5/9 (55%) 20s
+[1]Aluna       |09:24:24 | 11-10-2026| manga ch1 (2100001): page 6/9 (66%) 25s
+[1]Aluna       |09:24:29 | 11-10-2026| manga ch1 (2100001): page 7/9 (77%) 31s
+[1]Aluna       |09:24:34 | 11-10-2026| manga ch1 (2100001): page 8/9 (88%) 36s
+[1]Aluna       |09:24:39 | 11-10-2026| manga ch1 (2100001): page 9/9 (99%) 41s
+[1]Aluna       |09:24:43 | 11-10-2026| manga ch1 (2100001): COMPLETED
+[1]Aluna       |09:24:46 | 11-10-2026| manga [11/13] membaca ch.1 (10 hal)...
+[1]Aluna       |09:24:52 | 11-10-2026| manga ch1 (2070001): page 1/10 (10%) 0s
+[1]Aluna       |09:24:57 | 11-10-2026| manga ch1 (2070001): page 2/10 (20%) 5s
+[1]Aluna       |09:25:01 | 11-10-2026| manga ch1 (2070001): page 3/10 (30%) 9s
+[1]Aluna       |09:25:06 | 11-10-2026| manga ch1 (2070001): page 4/10 (40%) 14s
+[1]Aluna       |09:25:11 | 11-10-2026| manga ch1 (2070001): page 5/10 (50%) 18s
+[1]Aluna       |09:25:15 | 11-10-2026| manga ch1 (2070001): page 6/10 (60%) 23s
+[1]Aluna       |09:25:20 | 11-10-2026| manga ch1 (2070001): page 7/10 (70%) 28s
+[1]Aluna       |09:25:24 | 11-10-2026| manga ch1 (2070001): page 8/10 (80%) 32s
+[1]Aluna       |09:25:30 | 11-10-2026| manga ch1 (2070001): page 9/10 (90%) 37s
+[1]Aluna       |09:25:35 | 11-10-2026| manga ch1 (2070001): page 10/10 (99%) 42s
+[1]Aluna       |09:25:40 | 11-10-2026| manga ch1 (2070001): COMPLETED
+[1]Aluna       |09:25:43 | 11-10-2026| manga [12/13] membaca ch.2 (11 hal)...
+[1]Aluna       |09:25:48 | 11-10-2026| manga ch2 (2520001): page 1/11 (9%) 0s
+[1]Aluna       |09:25:53 | 11-10-2026| manga ch2 (2520001): page 2/11 (18%) 4s
+[1]Aluna       |09:25:58 | 11-10-2026| manga ch2 (2520001): page 3/11 (27%) 10s
+[1]Aluna       |09:26:03 | 11-10-2026| manga ch2 (2520001): page 4/11 (36%) 15s
+[1]Aluna       |09:26:08 | 11-10-2026| manga ch2 (2520001): page 5/11 (45%) 20s
+[1]Aluna       |09:26:13 | 11-10-2026| manga ch2 (2520001): page 6/11 (54%) 25s
+[1]Aluna       |09:26:17 | 11-10-2026| manga ch2 (2520001): page 7/11 (63%) 29s
+[1]Aluna       |09:26:22 | 11-10-2026| manga ch2 (2520001): page 8/11 (72%) 34s
+[1]Aluna       |09:26:27 | 11-10-2026| manga ch2 (2520001): page 9/11 (81%) 38s
+[1]Aluna       |09:26:32 | 11-10-2026| manga ch2 (2520001): page 10/11 (90%) 44s
+[1]Aluna       |09:26:36 | 11-10-2026| manga ch2 (2520001): page 11/11 (99%) 48s
+[1]Aluna       |09:26:42 | 11-10-2026| manga ch2 (2520001): COMPLETED
+[1]Aluna       |09:26:45 | 11-10-2026| manga [13/13] membaca ch.3 (11 hal)...
+[1]Aluna       |09:26:51 | 11-10-2026| manga ch3 (2550001): page 1/11 (9%) 0s
+[1]Aluna       |09:26:56 | 11-10-2026| manga ch3 (2550001): page 2/11 (18%) 4s
+[1]Aluna       |09:27:01 | 11-10-2026| manga ch3 (2550001): page 3/11 (27%) 9s
+[1]Aluna       |09:27:05 | 11-10-2026| manga ch3 (2550001): page 4/11 (36%) 14s
+[1]Aluna       |09:27:11 | 11-10-2026| manga ch3 (2550001): page 5/11 (45%) 19s
+[1]Aluna       |09:27:15 | 11-10-2026| manga ch3 (2550001): page 6/11 (54%) 24s
+[1]Aluna       |09:27:20 | 11-10-2026| manga ch3 (2550001): page 7/11 (63%) 29s
+[1]Aluna       |09:27:25 | 11-10-2026| manga ch3 (2550001): page 8/11 (72%) 33s
+[1]Aluna       |09:27:30 | 11-10-2026| manga ch3 (2550001): page 9/11 (81%) 39s
+[1]Aluna       |09:27:35 | 11-10-2026| manga ch3 (2550001): page 10/11 (90%) 44s
+[1]Aluna       |09:27:42 | 11-10-2026| manga ch3 (2550001): page 11/11 (99%) 49s
+[1]Aluna       |09:27:46 | 11-10-2026| manga ch3 (2550001): COMPLETED
+--> [1]Aluna menjalankan: Get Gift
+[1]Aluna       |09:27:50 | 11-10-2026| gift: 3/3 belum diterima
+[1]Aluna       |09:27:51 | 11-10-2026| gift [1/3] Oshii’s space studio overlooking Earth: OK
+[1]Aluna       |09:27:54 | 11-10-2026| gift [2/3] Osshi animated stickers: OK
+[1]Aluna       |09:27:57 | 11-10-2026| gift [3/3] Oshii and friends above the sunrise clouds: OK
+--> [1]Aluna menjalankan: Setup Profile
+[1]Aluna       |09:28:00 | 11-10-2026| profile: bio="" fav=- rewardAt=-
+[1]Aluna       |09:28:01 | 11-10-2026| profile: OK bio="https://x.com/alunazavira" fav=oshi awarded=true +10pt
+--> [1]Aluna menjalankan: Bind Wallet
+[1]Aluna       |09:28:01 | 11-10-2026| wallet: derivasi dari privateKeySolana -> FGCKrnD6H1xs9RGcLCRorqjnFPoXThdKkYpktAGLC7C7 (cek cocok dengan wallet kamu!)
+[1]Aluna       |09:28:03 | 11-10-2026| wallet: /api/wallet OK (solana)
+[1]Aluna       |09:28:04 | 11-10-2026| wallet: /api/sol-address OK
+
+== RINGKASAN ==
+- Aluna: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 4/4 completed | musik 0 trek ~0s | artikel 22 dibaca | manga 12/13 completed | gift 3/3 diterima | profile +10pt | wallet bound | mint req=false open=false
