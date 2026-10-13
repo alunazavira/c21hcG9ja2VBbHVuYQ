@@ -12,267 +12,52 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Aluna =====
-[1]Aluna       |16:29:53 | 12-10-2026| login OK @alunazavira | score=900 rank=6845
-[1]Aluna       |16:29:53 | 12-10-2026| serverTime=2026-10-12T16:29:53.000Z local=2026-10-12T16:29:53.481Z
+[1]Aluna       |14:47:51 | 13-10-2026| login OK @alunazavira | score=1100 rank=5556
+[1]Aluna       |14:47:51 | 13-10-2026| serverTime=2026-10-13T14:47:51.000Z local=2026-10-13T14:47:51.784Z
 --> [1]Aluna menjalankan: Claim Daily
-[1]Aluna       |16:29:54 | 12-10-2026| daily: OK +10 poin score=910
---> [1]Aluna menjalankan: Auto All Tasks (10 pending)
-[1]Aluna       |16:29:56 | 12-10-2026| [1/10] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alunazavira/status/2109682401397673231
-[1]Aluna       |16:29:56 | 12-10-2026| delay 10s...
-[1]Aluna       |16:30:08 | 12-10-2026| [2/10] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alunazavira/status/2109682475541070884
-[1]Aluna       |16:30:08 | 12-10-2026| delay 10s...
-[1]Aluna       |16:30:20 | 12-10-2026| [3/10] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alunazavira/status/2109682822687316832
-[1]Aluna       |16:30:20 | 12-10-2026| delay 10s...
-[1]Aluna       |16:30:31 | 12-10-2026| [4/10] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alunazavira/status/2109682651038337571
-[1]Aluna       |16:30:31 | 12-10-2026| delay 10s...
-[1]Aluna       |16:30:43 | 12-10-2026| [5/10] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Aluna       |16:30:43 | 12-10-2026| delay 10s...
-[1]Aluna       |16:30:55 | 12-10-2026| [6/10] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alunazavira/status/2109682958573631106
-[1]Aluna       |16:30:55 | 12-10-2026| delay 10s...
-[1]Aluna       |16:31:07 | 12-10-2026| [7/10] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alunazavira/status/2109682665414064767
-[1]Aluna       |16:31:07 | 12-10-2026| delay 10s...
-[1]Aluna       |16:31:18 | 12-10-2026| [8/10] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alunazavira/status/2109683011999740571
-[1]Aluna       |16:31:18 | 12-10-2026| delay 10s...
-[1]Aluna       |16:31:31 | 12-10-2026| [9/10] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alunazavira/status/2109683048301885102
-[1]Aluna       |16:31:31 | 12-10-2026| delay 10s...
-[1]Aluna       |16:31:43 | 12-10-2026| [10/10] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Aluna       |16:31:43 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Aluna       |16:31:45 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/alunazavira/status/2109683142693229462
+[1]Aluna       |14:47:53 | 13-10-2026| daily: sudah klaim (already=true) score=1100
+--> [1]Aluna menjalankan: Auto All Tasks (3 pending)
+[1]Aluna       |14:47:55 | 13-10-2026| [1/3] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alunazavira/status/2110019429092283210
+[1]Aluna       |14:47:55 | 13-10-2026| delay 10s...
+[1]Aluna       |14:48:08 | 13-10-2026| [2/3] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/alunazavira/status/2110019425331722154
+[1]Aluna       |14:48:08 | 13-10-2026| delay 10s...
+[1]Aluna       |14:48:20 | 13-10-2026| [3/3] 34f1e829 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Aluna       |14:48:20 | 13-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Aluna       |14:48:22 | 13-10-2026| [1/1] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/alunazavira/status/2110019330042375112
 --> [1]Aluna menjalankan: Watch Anime
-[1]Aluna       |16:31:46 | 12-10-2026| watch: semua video sudah completed
+[1]Aluna       |14:48:23 | 13-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
+[1]Aluna       |14:48:23 | 13-10-2026| watch [1/3] farming oshi-captains-hat...
+  video baru dikenal: oshi-captains-hat (katalog +4)
+[1]Aluna       |14:48:25 | 13-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Aluna       |14:48:30 | 13-10-2026| watch [2/3] farming oshi-rainbow-star...
+[1]Aluna       |14:48:33 | 13-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Aluna       |14:48:38 | 13-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
+[1]Aluna       |14:48:40 | 13-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Aluna menjalankan: Read Article
-[1]Aluna       |16:31:47 | 12-10-2026| news: 22/24 artikel selesai dibaca
-[1]Aluna       |16:31:47 | 12-10-2026| mint eligibility: {"userId":"1917978478068338688","youtube":{"url":"https://www.youtube.com/@alunazavira","status":"submitted","revision":"139d3419-6f24-4159-bc99-4faadbed5f2f","submittedAt":1791681557,"reviewedAt":179
-[1]Aluna       |16:31:53 | 12-10-2026| news [1/2] smart-pocket-mobile-apps: OK completed=23
-[1]Aluna       |16:32:02 | 12-10-2026| news [2/2] smart-pocket-read-a-card: OK completed=24
+[1]Aluna       |14:48:42 | 13-10-2026| news: 24/24 artikel selesai dibaca
+[1]Aluna       |14:48:43 | 13-10-2026| mint eligibility: {"userId":"1917978478068338688","youtube":{"url":"https://www.youtube.com/@alunazavira","status":"submitted","revision":"139d3419-6f24-4159-bc99-4faadbed5f2f","submittedAt":1791681557,"reviewedAt":179
+[1]Aluna       |14:48:43 | 13-10-2026| news: semua artikel sudah dibaca
 --> [1]Aluna menjalankan: Quiz Anime
-[1]Aluna       |16:32:07 | 12-10-2026| quiz ep1: BENAR (0) +10 poin
-[1]Aluna       |16:32:12 | 12-10-2026| quiz ep2: BENAR (1) +10 poin
-[1]Aluna       |16:32:16 | 12-10-2026| quiz ep3: BENAR (2) +10 poin
-[1]Aluna       |16:32:21 | 12-10-2026| quiz ep4: BENAR (3) +10 poin
-[1]Aluna       |16:32:26 | 12-10-2026| quiz ep5: BENAR (0) +10 poin
-[1]Aluna       |16:32:30 | 12-10-2026| quiz ep6: BENAR (1) +10 poin
+[1]Aluna       |14:48:44 | 13-10-2026| quiz ep1: sudah dijawab
+[1]Aluna       |14:48:44 | 13-10-2026| quiz ep2: sudah dijawab
+[1]Aluna       |14:48:44 | 13-10-2026| quiz ep3: sudah dijawab
+[1]Aluna       |14:48:44 | 13-10-2026| quiz ep4: sudah dijawab
+[1]Aluna       |14:48:44 | 13-10-2026| quiz ep5: sudah dijawab
+[1]Aluna       |14:48:44 | 13-10-2026| quiz ep6: sudah dijawab
 --> [1]Aluna menjalankan: Music Missions (realtime, bisa lama!)
-[1]Aluna       |16:32:37 | 12-10-2026| music memutar "この手は覚えてる" (94s)...
-[1]Aluna       |16:32:48 | 12-10-2026| music "この手は覚えてる": 9% (9.0036/94s)
-[1]Aluna       |16:32:59 | 12-10-2026| music "この手は覚えてる": 20% (18.9927/94s)
-[1]Aluna       |16:33:10 | 12-10-2026| music "この手は覚えてる": 30% (29.125799999999998/94s)
-[1]Aluna       |16:33:21 | 12-10-2026| music "この手は覚えてる": 41% (39.051/94s)
-[1]Aluna       |16:33:32 | 12-10-2026| music "この手は覚えてる": 52% (49.2111/94s)
-[1]Aluna       |16:33:43 | 12-10-2026| music "この手は覚えてる": 62% (59.162400000000005/94s)
-[1]Aluna       |16:33:55 | 12-10-2026| music "この手は覚えてる": 73% (69.0327/94s)
-[1]Aluna       |16:34:06 | 12-10-2026| music "この手は覚えてる": 84% (79.2873/94s)
-[1]Aluna       |16:34:07 | 12-10-2026| music "この手は覚えてる": selesai 79.2873s
-[1]Aluna       |16:34:09 | 12-10-2026| music memutar "キャンバス" (125s)...
-[1]Aluna       |16:34:20 | 12-10-2026| music "キャンバス": 7% (9.0063/125s)
-[1]Aluna       |16:34:31 | 12-10-2026| music "キャンバス": 15% (18.8829/125s)
-[1]Aluna       |16:34:42 | 12-10-2026| music "キャンバス": 22% (28.7352/125s)
-[1]Aluna       |16:34:52 | 12-10-2026| music "キャンバス": 30% (38.638799999999996/125s)
-[1]Aluna       |16:35:03 | 12-10-2026| music "キャンバス": 38% (48.4389/125s)
-[1]Aluna       |16:35:15 | 12-10-2026| music "キャンバス": 46% (58.268699999999995/125s)
-[1]Aluna       |16:35:26 | 12-10-2026| music "キャンバス": 54% (68.544/125s)
-[1]Aluna       |16:35:37 | 12-10-2026| music "キャンバス": 62% (78.5196/125s)
-[1]Aluna       |16:35:48 | 12-10-2026| music "キャンバス": 70% (88.7184/125s)
-[1]Aluna       |16:35:59 | 12-10-2026| music "キャンバス": 78% (98.6634/125s)
-[1]Aluna       |16:36:10 | 12-10-2026| music "キャンバス": 86% (108.5184/125s)
-[1]Aluna       |16:36:11 | 12-10-2026| music "キャンバス": selesai 108.5184s
-[1]Aluna       |16:36:13 | 12-10-2026| music memutar "ゆっくり帰ろう" (153s)...
-[1]Aluna       |16:36:24 | 12-10-2026| music "ゆっくり帰ろう": 5% (9.0009/153s)
-[1]Aluna       |16:36:35 | 12-10-2026| music "ゆっくり帰ろう": 12% (19.325699999999998/153s)
-[1]Aluna       |16:36:46 | 12-10-2026| music "ゆっくり帰ろう": 19% (29.242799999999995/153s)
-[1]Aluna       |16:36:57 | 12-10-2026| music "ゆっくり帰ろう": 25% (39.1014/153s)
-[1]Aluna       |16:37:08 | 12-10-2026| music "ゆっくり帰ろう": 32% (48.9636/153s)
-[1]Aluna       |16:37:19 | 12-10-2026| music "ゆっくり帰ろう": 38% (58.8924/153s)
-[1]Aluna       |16:37:30 | 12-10-2026| music "ゆっくり帰ろう": 44% (68.8086/153s)
-[1]Aluna       |16:37:46 | 12-10-2026| music "ゆっくり帰ろう": 51% (78.8373/153s)
-[1]Aluna       |16:37:57 | 12-10-2026| music "ゆっくり帰ろう": 60% (93.1644/153s)
-[1]Aluna       |16:38:08 | 12-10-2026| music "ゆっくり帰ろう": 67% (103.014/153s)
-[1]Aluna       |16:38:19 | 12-10-2026| music "ゆっくり帰ろう": 73% (112.8915/153s)
-[1]Aluna       |16:38:30 | 12-10-2026| music "ゆっくり帰ろう": 80% (122.82209999999999/153s)
-[1]Aluna       |16:38:41 | 12-10-2026| music "ゆっくり帰ろう": 86% (132.6906/153s)
-[1]Aluna       |16:38:42 | 12-10-2026| music "ゆっくり帰ろう": selesai 132.6906s
-[1]Aluna       |16:38:44 | 12-10-2026| music memutar "うたかた" (185s)...
-[1]Aluna       |16:38:55 | 12-10-2026| music "うたかた": 4% (9.0063/185s)
-[1]Aluna       |16:39:06 | 12-10-2026| music "うたかた": 10% (18.8046/185s)
-[1]Aluna       |16:39:18 | 12-10-2026| music "うたかた": 15% (28.7757/185s)
-[1]Aluna       |16:39:29 | 12-10-2026| music "うたかた": 21% (39.438900000000004/185s)
-[1]Aluna       |16:39:40 | 12-10-2026| music "うたかた": 26% (49.536/185s)
-[1]Aluna       |16:39:52 | 12-10-2026| music "うたかた": 32% (59.464800000000004/185s)
-[1]Aluna       |16:40:03 | 12-10-2026| music "うたかた": 37% (69.6303/185s)
-[1]Aluna       |16:40:14 | 12-10-2026| music "うたかた": 43% (79.6401/185s)
-[1]Aluna       |16:40:25 | 12-10-2026| music "うたかた": 48% (89.4672/185s)
-[1]Aluna       |16:40:36 | 12-10-2026| music "うたかた": 53% (99.43740000000001/185s)
-[1]Aluna       |16:40:47 | 12-10-2026| music "うたかた": 59% (109.29060000000001/185s)
-[1]Aluna       |16:40:58 | 12-10-2026| music "うたかた": 64% (119.19240000000002/185s)
-[1]Aluna       |16:41:11 | 12-10-2026| music "うたかた": 69% (129.26880000000003/185s)
-[1]Aluna       |16:41:22 | 12-10-2026| music "うたかた": 76% (140.949/185s)
-[1]Aluna       |16:41:33 | 12-10-2026| music "うたかた": 81% (150.97320000000002/185s)
-[1]Aluna       |16:41:34 | 12-10-2026| music "うたかた": selesai 150.97320000000002s
-[1]Aluna       |16:41:36 | 12-10-2026| music memutar "ぬくもり" (188s)...
-[1]Aluna       |16:41:47 | 12-10-2026| music "ぬくもり": 4% (9/188s)
-[1]Aluna       |16:41:58 | 12-10-2026| music "ぬくもり": 10% (19.2132/188s)
-[1]Aluna       |16:42:10 | 12-10-2026| music "ぬくもり": 15% (29.181600000000003/188s)
-[1]Aluna       |16:42:21 | 12-10-2026| music "ぬくもり": 20% (39.387600000000006/188s)
-[1]Aluna       |16:42:33 | 12-10-2026| music "ぬくもり": 26% (49.35690000000001/188s)
-[1]Aluna       |16:42:44 | 12-10-2026| music "ぬくもり": 31% (60.143400000000014/188s)
-[1]Aluna       |16:42:55 | 12-10-2026| music "ぬくもり": 37% (70.00200000000001/188s)
-[1]Aluna       |16:43:06 | 12-10-2026| music "ぬくもり": 42% (79.87500000000001/188s)
-[1]Aluna       |16:43:17 | 12-10-2026| music "ぬくもり": 47% (89.88210000000001/188s)
-[1]Aluna       |16:43:28 | 12-10-2026| music "ぬくもり": 53% (99.7227/188s)
-[1]Aluna       |16:43:39 | 12-10-2026| music "ぬくもり": 58% (109.5759/188s)
-[1]Aluna       |16:43:50 | 12-10-2026| music "ぬくもり": 63% (119.59110000000001/188s)
-[1]Aluna       |16:44:01 | 12-10-2026| music "ぬくもり": 68% (129.708/188s)
-[1]Aluna       |16:44:12 | 12-10-2026| music "ぬくもり": 74% (139.608/188s)
-[1]Aluna       |16:44:23 | 12-10-2026| music "ぬくもり": 79% (149.6862/188s)
-[1]Aluna       |16:44:35 | 12-10-2026| music "ぬくもり": 84% (159.58620000000002/188s)
-[1]Aluna       |16:44:35 | 12-10-2026| music "ぬくもり": selesai 159.58620000000002s
-[1]Aluna       |16:44:37 | 12-10-2026| music memutar "桃色の頃" (213s)...
-[1]Aluna       |16:44:49 | 12-10-2026| music "桃色の頃": 4% (9.0054/213s)
-[1]Aluna       |16:45:00 | 12-10-2026| music "桃色の頃": 8% (19.013399999999997/213s)
-[1]Aluna       |16:45:11 | 12-10-2026| music "桃色の頃": 13% (29.3283/213s)
-[1]Aluna       |16:45:22 | 12-10-2026| music "桃色の頃": 18% (39.175200000000004/213s)
-[1]Aluna       |16:45:34 | 12-10-2026| music "桃色の頃": 23% (49.16610000000001/213s)
-[1]Aluna       |16:45:45 | 12-10-2026| music "桃色の頃": 27% (59.52420000000001/213s)
-[1]Aluna       |16:45:56 | 12-10-2026| music "桃色の頃": 32% (69.41430000000001/213s)
-[1]Aluna       |16:46:07 | 12-10-2026| music "桃色の頃": 37% (80.03340000000001/213s)
-[1]Aluna       |16:46:18 | 12-10-2026| music "桃色の頃": 42% (89.93340000000002/213s)
-[1]Aluna       |16:46:30 | 12-10-2026| music "桃色の頃": 46% (99.83790000000002/213s)
-[1]Aluna       |16:46:41 | 12-10-2026| music "桃色の頃": 51% (110.23020000000002/213s)
-[1]Aluna       |16:46:52 | 12-10-2026| music "桃色の頃": 56% (120.20040000000003/213s)
-[1]Aluna       |16:47:04 | 12-10-2026| music "桃色の頃": 61% (130.18770000000004/213s)
-[1]Aluna       |16:47:15 | 12-10-2026| music "桃色の頃": 65% (140.41890000000004/213s)
-[1]Aluna       |16:47:26 | 12-10-2026| music "桃色の頃": 70% (150.77160000000003/213s)
-[1]Aluna       |16:47:37 | 12-10-2026| music "桃色の頃": 75% (160.69770000000003/213s)
-[1]Aluna       |16:47:48 | 12-10-2026| music "桃色の頃": 80% (170.93340000000003/213s)
-[1]Aluna       |16:48:00 | 12-10-2026| music "桃色の頃": 84% (180.85680000000002/213s)
-[1]Aluna       |16:48:00 | 12-10-2026| music "桃色の頃": selesai 180.85680000000002s
-[1]Aluna       |16:48:03 | 12-10-2026| music memutar "記憶の名前" (224s)...
-[1]Aluna       |16:48:14 | 12-10-2026| music "記憶の名前": 4% (9.0054/224s)
-[1]Aluna       |16:48:25 | 12-10-2026| music "記憶の名前": 8% (18.8649/224s)
-[1]Aluna       |16:48:36 | 12-10-2026| music "記憶の名前": 13% (29.2851/224s)
-[1]Aluna       |16:48:47 | 12-10-2026| music "記憶の名前": 17% (39.2643/224s)
-[1]Aluna       |16:48:59 | 12-10-2026| music "記憶の名前": 22% (49.4046/224s)
-[1]Aluna       |16:49:10 | 12-10-2026| music "記憶の名前": 26% (59.643/224s)
-[1]Aluna       |16:49:21 | 12-10-2026| music "記憶の名前": 31% (69.64920000000001/224s)
-[1]Aluna       |16:49:32 | 12-10-2026| music "記憶の名前": 35% (79.5771/224s)
-[1]Aluna       |16:49:43 | 12-10-2026| music "記憶の名前": 39% (89.4879/224s)
-[1]Aluna       |16:49:54 | 12-10-2026| music "記憶の名前": 44% (99.4032/224s)
-[1]Aluna       |16:50:05 | 12-10-2026| music "記憶の名前": 48% (109.6731/224s)
-[1]Aluna       |16:50:16 | 12-10-2026| music "記憶の名前": 53% (119.58210000000001/224s)
-[1]Aluna       |16:50:28 | 12-10-2026| music "記憶の名前": 57% (129.40380000000002/224s)
-[1]Aluna       |16:50:39 | 12-10-2026| music "記憶の名前": 62% (139.65570000000002/224s)
-[1]Aluna       |16:50:50 | 12-10-2026| music "記憶の名前": 66% (149.46930000000003/224s)
-[1]Aluna       |16:51:01 | 12-10-2026| music "記憶の名前": 71% (159.37200000000004/224s)
-[1]Aluna       |16:51:12 | 12-10-2026| music "記憶の名前": 75% (169.38990000000004/224s)
-[1]Aluna       |16:51:23 | 12-10-2026| music "記憶の名前": 80% (179.33670000000004/224s)
-[1]Aluna       |16:51:34 | 12-10-2026| music "記憶の名前": 84% (189.24300000000002/224s)
-[1]Aluna       |16:51:34 | 12-10-2026| music "記憶の名前": selesai 189.24300000000002s
-[1]Aluna       |16:51:36 | 12-10-2026| music memutar "Smart Pocket" (232s)...
-[1]Aluna       |16:51:47 | 12-10-2026| music "Smart Pocket": 3% (9.0054/232s)
-[1]Aluna       |16:51:58 | 12-10-2026| music "Smart Pocket": 8% (18.909/232s)
-[1]Aluna       |16:52:10 | 12-10-2026| music "Smart Pocket": 12% (28.8342/232s)
-[1]Aluna       |16:52:21 | 12-10-2026| music "Smart Pocket": 16% (39.1473/232s)
-[1]Aluna       |16:52:32 | 12-10-2026| music "Smart Pocket": 21% (49.4469/232s)
-[1]Aluna       |16:52:43 | 12-10-2026| music "Smart Pocket": 25% (59.3559/232s)
-[1]Aluna       |16:52:55 | 12-10-2026| music "Smart Pocket": 29% (69.3252/232s)
-[1]Aluna       |16:53:06 | 12-10-2026| music "Smart Pocket": 34% (79.4313/232s)
-[1]Aluna       |16:53:17 | 12-10-2026| music "Smart Pocket": 38% (89.2593/232s)
-[1]Aluna       |16:53:28 | 12-10-2026| music "Smart Pocket": 42% (99.41669999999999/232s)
-[1]Aluna       |16:53:40 | 12-10-2026| music "Smart Pocket": 47% (109.69109999999999/232s)
-[1]Aluna       |16:53:51 | 12-10-2026| music "Smart Pocket": 51% (120.0015/232s)
-[1]Aluna       |16:54:02 | 12-10-2026| music "Smart Pocket": 56% (130.36499999999998/232s)
-[1]Aluna       |16:54:13 | 12-10-2026| music "Smart Pocket": 60% (140.28209999999999/232s)
-[1]Aluna       |16:54:25 | 12-10-2026| music "Smart Pocket": 64% (150.1263/232s)
-[1]Aluna       |16:54:36 | 12-10-2026| music "Smart Pocket": 69% (160.3611/232s)
-[1]Aluna       |16:54:47 | 12-10-2026| music "Smart Pocket": 73% (170.2467/232s)
-[1]Aluna       |16:54:58 | 12-10-2026| music "Smart Pocket": 77% (180.1701/232s)
-[1]Aluna       |16:55:09 | 12-10-2026| music "Smart Pocket": 81% (190.1349/232s)
-[1]Aluna       |16:55:09 | 12-10-2026| music "Smart Pocket": selesai 190.1349s
-[1]Aluna       |16:55:11 | 12-10-2026| music memutar "神様みたいに" (254s)...
-[1]Aluna       |16:55:23 | 12-10-2026| music "神様みたいに": 3% (9.0054/254s)
-[1]Aluna       |16:55:34 | 12-10-2026| music "神様みたいに": 7% (19.179000000000002/254s)
-[1]Aluna       |16:55:46 | 12-10-2026| music "神様みたいに": 11% (29.419200000000004/254s)
-[1]Aluna       |16:55:57 | 12-10-2026| music "神様みたいに": 15% (39.8412/254s)
-[1]Aluna       |16:56:09 | 12-10-2026| music "神様みたいに": 19% (49.986000000000004/254s)
-[1]Aluna       |16:56:20 | 12-10-2026| music "神様みたいに": 23% (60.32430000000001/254s)
-[1]Aluna       |16:56:31 | 12-10-2026| music "神様みたいに": 27% (70.51320000000001/254s)
-[1]Aluna       |16:56:43 | 12-10-2026| music "神様みたいに": 31% (80.69580000000002/254s)
-[1]Aluna       |16:56:54 | 12-10-2026| music "神様みたいに": 35% (91.12410000000003/254s)
-[1]Aluna       |16:57:05 | 12-10-2026| music "神様みたいに": 39% (101.12130000000003/254s)
-[1]Aluna       |16:57:16 | 12-10-2026| music "神様みたいに": 43% (111.58470000000003/254s)
-[1]Aluna       |16:57:27 | 12-10-2026| music "神様みたいに": 47% (121.43160000000003/254s)
-[1]Aluna       |16:57:39 | 12-10-2026| music "神様みたいに": 51% (131.31630000000004/254s)
-[1]Aluna       |16:57:50 | 12-10-2026| music "神様みたいに": 55% (141.48360000000005/254s)
-[1]Aluna       |16:58:01 | 12-10-2026| music "神様みたいに": 59% (151.88850000000005/254s)
-[1]Aluna       |16:58:13 | 12-10-2026| music "神様みたいに": 63% (161.90370000000004/254s)
-[1]Aluna       |16:58:24 | 12-10-2026| music "神様みたいに": 67% (172.27800000000005/254s)
-[1]Aluna       |16:58:35 | 12-10-2026| music "神様みたいに": 71% (182.22210000000004/254s)
-[1]Aluna       |16:58:46 | 12-10-2026| music "神様みたいに": 75% (192.50910000000005/254s)
-[1]Aluna       |16:58:58 | 12-10-2026| music "神様みたいに": 79% (202.50540000000004/254s)
-[1]Aluna       |16:59:09 | 12-10-2026| music "神様みたいに": 83% (212.70690000000005/254s)
-[1]Aluna       |16:59:10 | 12-10-2026| music "神様みたいに": selesai 212.70690000000005s
-[1]Aluna       |16:59:13 | 12-10-2026| music memutar "せーので、飛ぼう！" (269s)...
-[1]Aluna       |16:59:24 | 12-10-2026| music "せーので、飛ぼう！": 3% (9.0054/269s)
-[1]Aluna       |16:59:37 | 12-10-2026| music "せーので、飛ぼう！": 7% (18.893700000000003/269s)
-[1]Aluna       |16:59:48 | 12-10-2026| music "せーので、飛ぼう！": 11% (30.672900000000002/269s)
-[1]Aluna       |17:00:00 | 12-10-2026| music "せーので、飛ぼう！": 15% (40.662000000000006/269s)
-[1]Aluna       |17:00:11 | 12-10-2026| music "せーので、飛ぼう！": 19% (51.46020000000001/269s)
-[1]Aluna       |17:00:22 | 12-10-2026| music "せーので、飛ぼう！": 22% (61.40520000000001/269s)
-[1]Aluna       |17:00:33 | 12-10-2026| music "せーので、飛ぼう！": 26% (71.2629/269s)
-[1]Aluna       |17:00:45 | 12-10-2026| music "せーので、飛ぼう！": 30% (81.2277/269s)
-[1]Aluna       |17:00:56 | 12-10-2026| music "せーので、飛ぼう！": 34% (92.1987/269s)
-[1]Aluna       |17:01:08 | 12-10-2026| music "せーので、飛ぼう！": 38% (102.2418/269s)
-[1]Aluna       |17:01:19 | 12-10-2026| music "せーので、飛ぼう！": 41% (112.4388/269s)
-[1]Aluna       |17:01:30 | 12-10-2026| music "せーので、飛ぼう！": 45% (122.5053/269s)
-[1]Aluna       |17:01:41 | 12-10-2026| music "せーので、飛ぼう！": 49% (132.42510000000001/269s)
-[1]Aluna       |17:01:52 | 12-10-2026| music "せーので、飛ぼう！": 52% (142.335/269s)
-[1]Aluna       |17:02:03 | 12-10-2026| music "せーので、飛ぼう！": 56% (152.23680000000002/269s)
-[1]Aluna       |17:02:15 | 12-10-2026| music "せーので、飛ぼう！": 60% (162.59400000000002/269s)
-[1]Aluna       |17:02:26 | 12-10-2026| music "せーので、飛ぼう！": 64% (173.42550000000003/269s)
-[1]Aluna       |17:02:37 | 12-10-2026| music "せーので、飛ぼう！": 68% (183.35790000000003/269s)
-[1]Aluna       |17:02:49 | 12-10-2026| music "せーので、飛ぼう！": 71% (193.28850000000003/269s)
-[1]Aluna       |17:03:00 | 12-10-2026| music "せーので、飛ぼう！": 75% (203.32800000000003/269s)
-[1]Aluna       |17:03:11 | 12-10-2026| music "せーので、飛ぼう！": 79% (213.55290000000002/269s)
-[1]Aluna       |17:03:23 | 12-10-2026| music "せーので、飛ぼう！": 83% (223.87500000000003/269s)
-[1]Aluna       |17:03:24 | 12-10-2026| music "せーので、飛ぼう！": selesai 223.87500000000003s
-[1]Aluna       |17:03:26 | 12-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
-[1]Aluna       |17:03:38 | 12-10-2026| music "ON CHAIN NEXUS": 3% (9.0054/276s)
-[1]Aluna       |17:03:49 | 12-10-2026| music "ON CHAIN NEXUS": 7% (19.4517/276s)
-[1]Aluna       |17:04:00 | 12-10-2026| music "ON CHAIN NEXUS": 10% (29.2554/276s)
-[1]Aluna       |17:04:12 | 12-10-2026| music "ON CHAIN NEXUS": 14% (39.7575/276s)
-[1]Aluna       |17:04:23 | 12-10-2026| music "ON CHAIN NEXUS": 18% (49.8645/276s)
-[1]Aluna       |17:04:35 | 12-10-2026| music "ON CHAIN NEXUS": 21% (60.1803/276s)
-[1]Aluna       |17:04:45 | 12-10-2026| music "ON CHAIN NEXUS": 25% (70.47/276s)
-[1]Aluna       |17:04:56 | 12-10-2026| music "ON CHAIN NEXUS": 29% (80.3529/276s)
-[1]Aluna       |17:05:07 | 12-10-2026| music "ON CHAIN NEXUS": 32% (90.2322/276s)
-[1]Aluna       |17:05:18 | 12-10-2026| music "ON CHAIN NEXUS": 36% (100.10610000000001/276s)
-[1]Aluna       |17:05:30 | 12-10-2026| music "ON CHAIN NEXUS": 39% (109.95210000000002/276s)
-[1]Aluna       |17:05:41 | 12-10-2026| music "ON CHAIN NEXUS": 43% (120.10680000000002/276s)
-[1]Aluna       |17:05:52 | 12-10-2026| music "ON CHAIN NEXUS": 47% (129.95280000000002/276s)
-[1]Aluna       |17:06:03 | 12-10-2026| music "ON CHAIN NEXUS": 50% (140.02740000000003/276s)
-[1]Aluna       |17:06:14 | 12-10-2026| music "ON CHAIN NEXUS": 54% (149.85990000000004/276s)
-[1]Aluna       |17:06:25 | 12-10-2026| music "ON CHAIN NEXUS": 57% (159.72210000000004/276s)
-[1]Aluna       |17:06:36 | 12-10-2026| music "ON CHAIN NEXUS": 61% (170.12610000000004/276s)
-[1]Aluna       |17:06:47 | 12-10-2026| music "ON CHAIN NEXUS": 65% (180.22950000000003/276s)
-[1]Aluna       |17:06:59 | 12-10-2026| music "ON CHAIN NEXUS": 68% (190.14390000000003/276s)
-[1]Aluna       |17:07:10 | 12-10-2026| music "ON CHAIN NEXUS": 72% (200.06010000000003/276s)
-[1]Aluna       |17:07:21 | 12-10-2026| music "ON CHAIN NEXUS": 76% (210.05190000000005/276s)
-[1]Aluna       |17:07:32 | 12-10-2026| music "ON CHAIN NEXUS": 79% (220.51620000000005/276s)
-[1]Aluna       |17:07:44 | 12-10-2026| music "ON CHAIN NEXUS": 83% (230.32080000000005/276s)
-[1]Aluna       |17:07:45 | 12-10-2026| music "ON CHAIN NEXUS": selesai 230.32080000000005s
-[1]Aluna       |17:08:00 | 12-10-2026| music: kedua misi sudah tercapai, stop
-[1]Aluna       |17:08:02 | 12-10-2026| mission music-listens-10: CLAIM OK +10 poin
-[1]Aluna       |17:08:06 | 12-10-2026| mission music-minutes-30: CLAIM OK +10 poin
-[1]Aluna       |17:08:10 | 12-10-2026| mission anime-completed-3: CLAIM OK +10 poin
+[1]Aluna       |14:48:46 | 13-10-2026| music: kedua misi sudah tercapai, stop
+[1]Aluna       |14:48:46 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Aluna       |14:48:46 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Aluna       |14:48:46 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Aluna menjalankan: Claim Missions
-[1]Aluna       |17:08:14 | 12-10-2026| mission music-listens-10: sudah diklaim
-[1]Aluna       |17:08:14 | 12-10-2026| mission music-minutes-30: sudah diklaim
-[1]Aluna       |17:08:14 | 12-10-2026| mission anime-completed-3: sudah diklaim
+[1]Aluna       |14:48:47 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Aluna       |14:48:47 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Aluna       |14:48:47 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Aluna menjalankan: Check Eligibility
 
 --- eligibility [1]Aluna ---
-  @alunazavira | score=900 rank=6845
-  tasks    [##################--] 70/80
+  @alunazavira | score=1100 rank=5556
+  tasks    [###################-] 75/78
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -283,33 +68,15 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Aluna menjalankan: Read Manga
-[1]Aluna       |17:08:18 | 12-10-2026| manga: 1/13 chapter belum completed
-[1]Aluna       |17:08:18 | 12-10-2026| manga [1/1] membaca ch.6 (17 hal)...
-[1]Aluna       |17:08:23 | 12-10-2026| manga ch6 (2610001): page 1/17 (5%) 107s
-[1]Aluna       |17:08:28 | 12-10-2026| manga ch6 (2610001): page 2/17 (11%) 111s
-[1]Aluna       |17:08:32 | 12-10-2026| manga ch6 (2610001): page 3/17 (17%) 116s
-[1]Aluna       |17:08:37 | 12-10-2026| manga ch6 (2610001): page 4/17 (23%) 121s
-[1]Aluna       |17:08:42 | 12-10-2026| manga ch6 (2610001): page 5/17 (29%) 125s
-[1]Aluna       |17:08:46 | 12-10-2026| manga ch6 (2610001): page 6/17 (35%) 130s
-[1]Aluna       |17:08:50 | 12-10-2026| manga ch6 (2610001): page 7/17 (41%) 135s
-[1]Aluna       |17:08:56 | 12-10-2026| manga ch6 (2610001): page 8/17 (47%) 139s
-[1]Aluna       |17:09:00 | 12-10-2026| manga ch6 (2610001): page 9/17 (52%) 144s
-[1]Aluna       |17:09:05 | 12-10-2026| manga ch6 (2610001): page 10/17 (58%) 149s
-[1]Aluna       |17:09:10 | 12-10-2026| manga ch6 (2610001): page 11/17 (64%) 153s
-[1]Aluna       |17:09:14 | 12-10-2026| manga ch6 (2610001): page 12/17 (70%) 158s
-[1]Aluna       |17:09:19 | 12-10-2026| manga ch6 (2610001): page 13/17 (76%) 163s
-[1]Aluna       |17:09:23 | 12-10-2026| manga ch6 (2610001): page 14/17 (82%) 167s
-[1]Aluna       |17:09:27 | 12-10-2026| manga ch6 (2610001): page 15/17 (88%) 172s
-[1]Aluna       |17:09:32 | 12-10-2026| manga ch6 (2610001): page 16/17 (94%) 176s
-[1]Aluna       |17:09:36 | 12-10-2026| manga ch6 (2610001): page 17/17 (99%) 180s
-[1]Aluna       |17:09:36 | 12-10-2026| manga ch6 (2610001): COMPLETED
+[1]Aluna       |14:48:52 | 13-10-2026| manga: 0/13 chapter belum completed
 --> [1]Aluna menjalankan: Get Gift
-[1]Aluna       |17:09:40 | 12-10-2026| gift: 0/3 belum diterima
+[1]Aluna       |14:48:53 | 13-10-2026| gift: 1/4 belum diterima
+[1]Aluna       |14:48:54 | 13-10-2026| gift [1/1] Silver Oshii: OK
 --> [1]Aluna menjalankan: Setup Profile
-[1]Aluna       |17:09:41 | 12-10-2026| profile: bio="https://x.com/alunazavira" fav=oshi rewardAt=1791710880
-[1]Aluna       |17:09:41 | 12-10-2026| profile: bonus sudah diklaim, skip
+[1]Aluna       |14:48:57 | 13-10-2026| profile: bio="https://x.com/alunazavira" fav=oshi rewardAt=1791710880
+[1]Aluna       |14:48:57 | 13-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Aluna menjalankan: Bind Wallet
-[1]Aluna       |17:09:41 | 12-10-2026| wallet: sudah terikat FGCKrnD6H1... (solana)
+[1]Aluna       |14:48:58 | 13-10-2026| wallet: sudah terikat FGCKrnD6H1... (solana)
 
 == RINGKASAN ==
-- Aluna: daily=claimed | tasks OK 11/11 | misi klaim 0 (+0pt) | kuis benar 6 (+60pt) | watch 0/0 completed | musik 11 trek ~1858.1931000000002s | artikel 2 dibaca | manga 1/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
+- Aluna: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/4 diterima | profile - | wallet bound | mint req=false open=false
