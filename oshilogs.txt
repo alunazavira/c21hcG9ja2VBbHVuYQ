@@ -12,58 +12,70 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Aluna =====
-[1]Aluna       |05:56:50 | 19-10-2026| login OK @alunazavira | score=1430 rank=4790
-[1]Aluna       |05:56:50 | 19-10-2026| serverTime=2026-10-19T05:56:50.000Z local=2026-10-19T05:56:50.173Z
+[1]Aluna       |05:49:46 | 20-10-2026| login OK @alunazavira | score=1490 rank=4737
+[1]Aluna       |05:49:46 | 20-10-2026| serverTime=2026-10-20T05:49:46.000Z local=2026-10-20T05:49:46.891Z
 --> [1]Aluna menjalankan: Claim Daily
-[1]Aluna       |05:56:51 | 19-10-2026| daily: OK +10 poin score=1440
---> [1]Aluna menjalankan: Auto All Tasks (5 pending)
-[1]Aluna       |05:56:55 | 19-10-2026| [1/5] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/alunazavira/status/2112060103799739857
-[1]Aluna       |05:56:55 | 19-10-2026| delay 10s...
-[1]Aluna       |05:57:07 | 19-10-2026| [2/5] c4a0bafb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/alunazavira/status/2112059913045713515
-[1]Aluna       |05:57:07 | 19-10-2026| delay 10s...
-[1]Aluna       |05:57:20 | 19-10-2026| [3/5] de7bf305 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/alunazavira/status/2112060082688729465
-[1]Aluna       |05:57:20 | 19-10-2026| delay 10s...
-[1]Aluna       |05:57:34 | 19-10-2026| [4/5] f2efc21b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/alunazavira/status/2112060052893078752
-[1]Aluna       |05:57:34 | 19-10-2026| delay 10s...
-[1]Aluna       |05:57:46 | 19-10-2026| [5/5] c821602a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/alunazavira/status/2112060180470977677
-[1]Aluna       |05:57:46 | 19-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Aluna       |05:57:48 | 19-10-2026| [1/1] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2111998437793382 | proof=https://x.com/alunazavira/status/2112060295850198139
+[1]Aluna       |05:49:47 | 20-10-2026| daily: OK +10 poin score=1500
+--> [1]Aluna menjalankan: Auto All Tasks (11 pending)
+[1]Aluna       |05:49:49 | 20-10-2026| [1/11] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/alunazavira/status/2112420513253196064
+[1]Aluna       |05:49:49 | 20-10-2026| delay 10s...
+[1]Aluna       |05:50:00 | 20-10-2026| [2/11] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/alunazavira/status/2112420469506642260
+[1]Aluna       |05:50:00 | 20-10-2026| delay 10s...
+[1]Aluna       |05:50:22 | 20-10-2026| [3/11] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/alunazavira/status/2112420673304268918
+[1]Aluna       |05:50:22 | 20-10-2026| delay 10s...
+[1]Aluna       |05:50:35 | 20-10-2026| [4/11] 1cc2da8d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/alunazavira/status/2112420560228926884
+[1]Aluna       |05:50:35 | 20-10-2026| delay 10s...
+[1]Aluna       |05:50:47 | 20-10-2026| [5/11] e792000f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/alunazavira/status/2112420736910495489
+[1]Aluna       |05:50:47 | 20-10-2026| delay 10s...
+[1]Aluna       |05:50:59 | 20-10-2026| [6/11] 5830cfb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/alunazavira/status/2112420701552104128
+[1]Aluna       |05:50:59 | 20-10-2026| delay 10s...
+[1]Aluna       |05:51:11 | 20-10-2026| [7/11] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/alunazavira/status/2112420891113846081
+[1]Aluna       |05:51:11 | 20-10-2026| delay 10s...
+[1]Aluna       |05:51:23 | 20-10-2026| [8/11] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/alunazavira/status/2112420978837821336
+[1]Aluna       |05:51:23 | 20-10-2026| delay 10s...
+[1]Aluna       |05:51:35 | 20-10-2026| [9/11] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/alunazavira/status/2112420895212971819
+[1]Aluna       |05:51:35 | 20-10-2026| delay 10s...
+[1]Aluna       |05:51:48 | 20-10-2026| [10/11] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/alunazavira/status/2112420927632457466
+[1]Aluna       |05:51:48 | 20-10-2026| delay 10s...
+[1]Aluna       |05:51:59 | 20-10-2026| [11/11] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/alunazavira/status/2112421231594009369
+[1]Aluna       |05:51:59 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Aluna       |05:52:01 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/alunazavira/status/2112421197129201646
 --> [1]Aluna menjalankan: Watch Anime
-[1]Aluna       |05:57:50 | 19-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Aluna       |05:57:50 | 19-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Aluna       |05:52:01 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Aluna       |05:52:01 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
   video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Aluna       |05:57:52 | 19-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Aluna       |05:57:57 | 19-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Aluna       |05:57:59 | 19-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Aluna       |05:58:04 | 19-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Aluna       |05:58:06 | 19-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Aluna       |05:58:11 | 19-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Aluna       |05:58:13 | 19-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Aluna       |05:52:03 | 20-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Aluna       |05:52:08 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Aluna       |05:52:10 | 20-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Aluna       |05:52:15 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Aluna       |05:52:16 | 20-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Aluna       |05:52:21 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Aluna       |05:52:23 | 20-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Aluna menjalankan: Read Article
-[1]Aluna       |05:58:15 | 19-10-2026| news: 27/27 artikel selesai dibaca
-[1]Aluna       |05:58:16 | 19-10-2026| mint eligibility: {"userId":"1917978478068338688","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@alunazavira","status":"submitted","revision":"139d3419-6f24-4159-bc99-4faadbed5f
-[1]Aluna       |05:58:16 | 19-10-2026| news: semua artikel sudah dibaca
+[1]Aluna       |05:52:25 | 20-10-2026| news: 27/27 artikel selesai dibaca
+[1]Aluna       |05:52:25 | 20-10-2026| mint eligibility: {"userId":"1917978478068338688","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@alunazavira","status":"submitted","revision":"139d3419-6f24-4159-bc99-4faadbed5f
+[1]Aluna       |05:52:25 | 20-10-2026| news: semua artikel sudah dibaca
 --> [1]Aluna menjalankan: Quiz Anime
-[1]Aluna       |05:58:17 | 19-10-2026| quiz ep1: sudah dijawab
-[1]Aluna       |05:58:17 | 19-10-2026| quiz ep2: sudah dijawab
-[1]Aluna       |05:58:17 | 19-10-2026| quiz ep3: sudah dijawab
-[1]Aluna       |05:58:17 | 19-10-2026| quiz ep4: sudah dijawab
-[1]Aluna       |05:58:17 | 19-10-2026| quiz ep5: sudah dijawab
-[1]Aluna       |05:58:17 | 19-10-2026| quiz ep6: sudah dijawab
+[1]Aluna       |05:52:26 | 20-10-2026| quiz ep1: sudah dijawab
+[1]Aluna       |05:52:26 | 20-10-2026| quiz ep2: sudah dijawab
+[1]Aluna       |05:52:26 | 20-10-2026| quiz ep3: sudah dijawab
+[1]Aluna       |05:52:26 | 20-10-2026| quiz ep4: sudah dijawab
+[1]Aluna       |05:52:26 | 20-10-2026| quiz ep5: sudah dijawab
+[1]Aluna       |05:52:26 | 20-10-2026| quiz ep6: sudah dijawab
 --> [1]Aluna menjalankan: Music Missions (realtime, bisa lama!)
-[1]Aluna       |05:58:19 | 19-10-2026| music: kedua misi sudah tercapai, stop
-[1]Aluna       |05:58:23 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Aluna       |05:58:23 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Aluna       |05:58:23 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Aluna       |05:52:28 | 20-10-2026| music: kedua misi sudah tercapai, stop
+[1]Aluna       |05:52:28 | 20-10-2026| mission music-listens-10: sudah diklaim
+[1]Aluna       |05:52:28 | 20-10-2026| mission music-minutes-30: sudah diklaim
+[1]Aluna       |05:52:28 | 20-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Aluna menjalankan: Claim Missions
-[1]Aluna       |05:58:23 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Aluna       |05:58:23 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Aluna       |05:58:23 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Aluna       |05:52:29 | 20-10-2026| mission music-listens-10: sudah diklaim
+[1]Aluna       |05:52:29 | 20-10-2026| mission music-minutes-30: sudah diklaim
+[1]Aluna       |05:52:29 | 20-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Aluna menjalankan: Check Eligibility
 
 --- eligibility [1]Aluna ---
-  @alunazavira | score=1430 rank=4790
-  tasks    [###################-] 74/79
+  @alunazavira | score=1490 rank=4737
+  tasks    [#################---] 71/82
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -74,14 +86,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Aluna menjalankan: Read Manga
-[1]Aluna       |05:58:28 | 19-10-2026| manga: 0/13 chapter belum completed
+[1]Aluna       |05:52:32 | 20-10-2026| manga: 0/13 chapter belum completed
 --> [1]Aluna menjalankan: Get Gift
-[1]Aluna       |05:58:29 | 19-10-2026| gift: 0/4 belum diterima
+[1]Aluna       |05:52:33 | 20-10-2026| gift: 0/4 belum diterima
 --> [1]Aluna menjalankan: Setup Profile
-[1]Aluna       |05:58:29 | 19-10-2026| profile: bio="https://x.com/alunazavira" fav=oshi rewardAt=1791710880
-[1]Aluna       |05:58:29 | 19-10-2026| profile: bonus sudah diklaim, skip
+[1]Aluna       |05:52:33 | 20-10-2026| profile: bio="https://x.com/alunazavira" fav=oshi rewardAt=1791710880
+[1]Aluna       |05:52:33 | 20-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Aluna menjalankan: Bind Wallet
-[1]Aluna       |05:58:30 | 19-10-2026| wallet: sudah terikat FGCKrnD6H1... (solana)
+[1]Aluna       |05:52:34 | 20-10-2026| wallet: sudah terikat FGCKrnD6H1... (solana)
 
 == RINGKASAN ==
-- Aluna: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Aluna: daily=claimed | tasks OK 12/12 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
